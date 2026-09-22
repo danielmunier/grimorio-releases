@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "apkUrl": "https://github.com/danielmunier/grimorio-releases/releases/download/v1.1.0/grimorio-1.1.0.apk",
-  "notes": "Alarme em cima do bloqueio, lembretes de ritual, cobrinha, push, rádio com tela bloqueada."
+  "version": "1.2.0",
+  "apkUrl": "https://github.com/danielmunier/grimorio-releases/releases/download/v1.2.0/grimorio-1.2.0.apk",
+  "notes": "Alarme como o WhatsApp: toca repetindo e abre em tela cheia bloqueada, sem configurar nada."
 }
