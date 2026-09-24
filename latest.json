@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "apkUrl": "https://github.com/danielmunier/grimorio-releases/releases/download/v1.3.0/grimorio-1.3.0.apk",
-  "notes": "Som do alarme no modo silencioso, raposa nova, Tetris e cobrinha mais rápida."
+  "version": "1.4.0",
+  "apkUrl": "https://github.com/danielmunier/grimorio-releases/releases/download/v1.4.0/grimorio-1.4.0.apk",
+  "notes": "Widget de recado na tela inicial + instalador embutido + chat"
 }
